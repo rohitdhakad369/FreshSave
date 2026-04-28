@@ -1,0 +1,25 @@
+Website Live - https://fresh-save3.vercel.app/
+
+✅ Real-World Problem (Ground Reality)
+Small grocery stores, kirana shops, and local vendors lose 10–20% of perishable inventory daily due to:
+
+No tracking of product freshness Manual guesswork in pricing No real-time visibility of spoilage Lack of automation tools (unlike big chains)
+
+👉 In places like local markets across Delhi or tier-2 cities, shopkeepers rely on experience, not data.
+
+💥 Result:
+
+Fruits/vegetables rot on shelves Late discounts = no buyers Direct profit loss 2. 🎯 Problem Statement (Hackathon-Ready)
+
+“How can small and medium grocery retailers reduce perishable inventory loss by dynamically adjusting pricing based on real-time product freshness, without requiring expensive infrastructure or complex AI systems?”
+
+🚀 Solution (Refined + Strong Pitch) 💡 Solution Name:
+Retail-Drain: AI-Powered Dynamic Discounting System
+
+🔧 How It Works (Clear & Practical) 🧠 Agent 1 – Inventory Awareness Tracks when items were stocked Uses simple rules (e.g., “banana > 3 days = risk zone”) 👁️ Agent 2 – Visual Intelligence Camera scans shelves Uses YOLOv8 to detect: Browning bananas 🍌 Wilted spinach 🥬 Overripe fruits
+
+👉 Instead of predicting demand, it detects actual physical decay
+
+💸 Agent 3 – Smart Pricing Engine Adjusts price dynamically: Fresh → Full price Slightly spoiled → 10–20% off Near expiry → 30–50% off Updates via: QR code labels Digital price display 🔁 Workflow Summary
+
+Shelf → Camera → Spoilage Detection → Pricing Logic → Discount Applied → Faster Sales
